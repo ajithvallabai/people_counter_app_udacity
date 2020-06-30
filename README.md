@@ -1,3 +1,6 @@
+
+# Please read Step 0 for setting up the project
+
 # Deploy a People Counter App at the Edge
 
 | Details            |              |
